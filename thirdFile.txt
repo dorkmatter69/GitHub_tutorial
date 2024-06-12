@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
 this file has been added back to the staging area and in the timeline and been commited to
 the main << HEAD 
 
+=======
+this is the 3 rd file in the list 
+>>>>>>> refs/remotes/origin/main
