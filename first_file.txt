@@ -1,1 +1,3 @@
 this is the first file in the github tutorial
+
+want to try the git reset command using this text file
